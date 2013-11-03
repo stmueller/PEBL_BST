@@ -21,9 +21,11 @@ This archive enables the Bivalent Shape Task (BST) to be run
 on your computer.  To do so, you must first have installed 
 PEBL version 0.13 or later (available at http://pebl.sf.net).
 
-Authors:
+AUTHORS:
 Shane T. Mueller (shanem@mtu.edu) & Alena Esposito (alenaesposito@gmail.com)
 
+SUPPORT:
+For support, contact the authors directly or pebl-list@lists.sourceforge.net
 
 
 AVAILABILITY: 
@@ -48,12 +50,10 @@ HELP:
 For help installing, running, or interpreting data from this test,
 please email the pebl-list: pebl-list@lists.sourceforge.net
 
-
-
 MODIFYING:
-A number of options exist for modifying the program.  To do so, open the BST.pbl 
-file in a text editor.  Editable parameters are near the top of the program,
-and include:
+A number of options exist for modifying the program.  To do so,
+open the BST.pbl file in a text editor such as notepad++.  Editable 
+parameters are near the top of the program, and include:
 
 
  gUseRandom <- 0     ##set to 1 to make each test different
@@ -80,5 +80,3 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-
