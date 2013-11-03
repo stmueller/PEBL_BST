@@ -3,10 +3,12 @@
 ##
 ## Developed by Shane T. Mueller & Alena Esposito
 ##
-## (See Esposito et al. (2013). Interference Suppression
-## vs. Response Inhibition: An Explanation for the Absence of a
-## Bilingual Advantage in Preschoolers' Stroop Task
-## Performance. Cognitive Development. DOI: 
+## 
+## See: Esposito, A. G., Baker-Ward, L., & Mueller, S. T. (2013). Interference
+##	  suppression vs. response inhibition: An explanation for the 
+##	  absence of a bilingual advantage in preschoolers’ Stroop task
+##	  performance. Cognitive Development.
+##	  http://www.sciencedirect.com/science/article/pii/S0885201413000518.
 ## 
 ##  This file is part of the PEBL project and the PEBL Test Battery
 ##  http://pebl.sourceforge.net
@@ -52,12 +54,11 @@ define Start(p)
       SeedRNG(1000)
     }
 
-   gSleepEasy <- 1  ##reserve batteries.
+   gSleepEasy <- 1  ##Set from 0 to 1 to reserve batteries.
    gResponseOffset <- 130  ##Pixels from center line that the responses are placed
    gResponseY     <-  gVideoHeight/2+150 ##Height of responses.  Override for better control.
    
    gResponseTimeLimit <- 3000 ##Timeout in ms.
-
  
    gUseVisualFeedback <- 0 ##Give visual feedback of 'correct' and 'incorrect'
    gUseAudioFeedbackAlways <- 0

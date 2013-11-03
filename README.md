@@ -25,20 +25,14 @@ Authors:
 Shane T. Mueller (shanem@mtu.edu) & Alena Esposito (alenaesposito@gmail.com)
 
 
-REFERENCES:
-
-Please reference the following:
-
-Esposito et al.  (in press). Interference Suppression
- vs. Response Inhibition: An Explanation for the Absence of a
- Bilingual Advantage in Preschoolers' Stroop Task
- Performance. Cognitive Development. DOI: 
-
 
 AVAILABILITY: 
 This file is part of the PEBL project and the PEBL Test Battery
 http://pebl.sourceforge.net
 
+Along with being distributed with PEBL 0.14 and later, it is available at 
+
+https://github.com/stmueller/PEBL_BST
 
 
 INSTALLATION:
