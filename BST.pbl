@@ -19,7 +19,7 @@
 ## PEBL experiment directory (e.g., Documents\pebl-exp-0.14\) Finally,
 ## run the PEBL launcher and navigate to this file in order to run the
 ## test. Data will be saved in the data\ sub-directory of the folder this
-## file was saved in, in a file named interference-XXX.csv, where XXX
+## file was saved in, in a file named BST-XXX.csv, where XXX
 ## is the participant code entered in the PEBL Launcher.
 ##
 ##
